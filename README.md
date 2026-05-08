@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hey, I'm DevGram
 
-<!--
-**DevGramCode/devgramcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Sharing code tips & snippets every day
+🐍 Python · ⚡ JavaScript · 🌐 Web · 🤖 AI · 🔧 Git
+📸 Follow me on Instagram → @devgramcode
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🗂️ What you'll find here
+
+- `snippets/` → All code snippets from my Instagram posts
+- `resources/` → Free guides & cheat sheets
+- `projects/` → My personal projects
+
+---
+
+## 📬 Connect
+[![Instagram](https://img.shields.io/badge/@devgramcode-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/devgramcode)
